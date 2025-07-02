@@ -3,7 +3,7 @@
 ShoppyGlobe is a modern e-commerce web application built with **React**, **Redux**, **React Router**, and **Tailwind CSS**. It allows users to browse products, view detailed product info, manage a shopping cart, and proceed to checkout.
 
 ---
-##Deplotment Link-
+##Deplotment Link-https://shoppy-globe-ecom-react-js-az34.vercel.app/
 
 ## 📚 Features
 
